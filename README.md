@@ -1,2 +1,2 @@
-# Geames
+# Games
 Popular Games
